@@ -76,7 +76,7 @@ I actively participate in the cybersecurity scene, focusing on competitive envir
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/pabloalonsocarrillo/>
+  <a href="https://www.linkedin.com/in/pabloalonsocarrillo"/>
 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
