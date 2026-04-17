@@ -7,13 +7,13 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Main%20OS-Linux-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Main%20OS-Kali%20Linux-blue?style=for-the-badge&logo=kali-linux"/>
 
   <img src="https://img.shields.io/badge/Focus-Red%20Team-darkred?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Specialty-CTF%20Player-orange?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Certification-eJPT%20(In%20Progress)-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Certification-eJPT%20(In%20Progress)-purple?style=for-the-badge"/>
 
 </p>
 
