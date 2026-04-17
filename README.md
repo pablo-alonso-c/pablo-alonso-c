@@ -25,7 +25,7 @@
 
 ### 📡 About Me
 
-I am a Computer Engineering undergraduate focused on the intersection of low-level systems architecture and offensive security. My methodology avoids dependency on automated third-party scanners, prioritizing custom development and a deep technical understanding of network traffic, memory management, and process execution.
+I am a Computer Engineering undergraduate focused on the intersection of low-level systems architecture and offensive security. Operating under the alias PROdigy, my methodology avoids dependency on automated third-party scanners, prioritizing custom development and a deep technical understanding of network traffic, memory management, and process execution.
 
 
 **Current Operations:**
