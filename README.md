@@ -75,11 +75,7 @@ I actively participate in the cybersecurity scene, focusing on competitive envir
 > *Note: Currently structuring my local exploit development environment. Repositories featuring custom offensive scripts and detailed CTF write-ups (including 47CON) will be pushed here shortly.*
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/pabloalonsocarrillo"/>
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+  <a href="https://www.linkedin.com/in/pabloalonsocarrillo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
 </p>
