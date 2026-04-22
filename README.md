@@ -60,7 +60,7 @@ I am a Computer Engineering undergraduate focused on the intersection of low-lev
 
 I actively participate in the cybersecurity scene, focusing on competitive environments to test vulnerability research against hardened targets.
 
-* **47CON CTF (2026) - Leading Position**
+* **47CON CTF (2026)**
   
   * Engaged in a highly competitive, multi-domain laboratory.
   * Successfully tackled high-complexity scenarios, executing cryptographic analysis and advanced OSINT investigations (e.g., intelligence extraction in "The Half Truth Fallacy").
