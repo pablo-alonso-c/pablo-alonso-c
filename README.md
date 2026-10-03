@@ -47,7 +47,7 @@ research and CTF team.
 **47CON CTF (2026)** — with ATYLA Collective. All challenges solved, 7600 points.
 Technical recognition from Asociación SUGUS.
 
-- [**None**](https://github.com/ORGANIZACION/CTF-writeups/tree/main/writeups/None) — ECDSA on P-256 leaking 4 bits of each nonce. Modelled as a
+- [**None**](https://github.com/ATYLA-Collective/CTF-writeups/tree/main/writeups/None) — ECDSA on P-256 leaking 4 bits of each nonce. Modelled as a
   Hidden Number Problem and solved by lattice reduction with BKZ. Full writeup.
 - *The Half Truth Fallacy* — OSINT.
 
