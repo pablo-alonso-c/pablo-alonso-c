@@ -19,6 +19,8 @@
 Computer Engineering undergraduate at UEMC, interested in low-level systems and
 offensive security. I build my own tooling because that's how I end up
 understanding what I'm attacking.
+Member of [ATYLA Collective](https://github.com/ATYLA-Collective), a security
+research and CTF team.
 
 **Currently working on:**
 
