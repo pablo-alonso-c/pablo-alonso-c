@@ -51,7 +51,7 @@ Technical recognition from Asociación SUGUS.
   Hidden Number Problem and solved by lattice reduction with BKZ. Full writeup.
 - *The Half Truth Fallacy* — OSINT.
 
-**RootedCON Yarix CTF (2026)**
+**RootedCON Yarix CTF (2026)** - with ATYLA Collective. 13th out of ~250 participants.
 
 - 6 challenges solved as a team: Active Directory (enumeration and privilege escalation), web security, and data poisoning against a machine learning model.
 
