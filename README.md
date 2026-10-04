@@ -53,9 +53,7 @@ Technical recognition from Asociación SUGUS.
 
 **RootedCON Yarix CTF (2026)**
 
-- Active Directory: enumeration and privilege escalation.
-- Web security.
-- Data poisoning against a machine learning model.
+- 6 challenges solved as a team: Active Directory (enumeration and privilege escalation), web security, and data poisoning against a machine learning model.
 
 ---
 
